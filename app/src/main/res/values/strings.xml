@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Kotlin</string>
+    <string name="hello">Hello World!</string>
+    <string name="pressMe">Press Me!</string>
+    <string name="pressAgain">Press me too!</string>
+    <string name="andAgain">Press more</string>
+</resources>
+
+

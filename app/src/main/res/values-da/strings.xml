@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hej Kotlin</string>
+    <string name="hello">Hejsa Verden!</string>
+    <string name="pressMe">Tryk her!</string>
+    <string name="andAgain">Og tryk endnu mere</string>
+</resources>
